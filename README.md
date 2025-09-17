@@ -1,4 +1,14 @@
-# Resource Tracker
+# ResourceTracker
+
+**This project is no longer maintained.**
+
+For the current and maintained version of this project, please visit the following repository:
+
+[https://github.com/sininspira2/ResourceTracker](https://github.com/sininspira2/ResourceTracker)
+
+---
+---
+---
 
 A comprehensive resource management and tracking portal with Discord authentication and role-based access control. Perfect for gaming communities, organizations, and teams that need to track shared resources, inventory, or assets.
 It was designed for Dune Awakening, but technically this could be used to track anything. Currently the only auth is Discord and it works with a TursoDB (Which you can get for free) but in the future maybe we can add more database types.
